@@ -1,3 +1,6 @@
+Réalisation d’une intelligence artificielle permettant la reconnaissance de kystes et ganglions bénins, graves ou normaux à partir d'images d’échographies mammaires et de masques binaires leur correspondant.
+Ce projet a été réalisé en DUT informatique, en binôme.
+
 Bibliothèques utilisées :
 
 import pandas as pd
