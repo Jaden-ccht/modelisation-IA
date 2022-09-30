@@ -18,6 +18,5 @@ from sklearn.neighbors import KNeighborsClassifier
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 
-
 Lien du dataset :
 https://www.kaggle.com/aryashah2k/breast-ultrasound-images-dataset
